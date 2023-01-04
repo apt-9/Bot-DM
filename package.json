@@ -1,0 +1,16 @@
+{
+  "name": "Jah",
+  "version": "2.0.1",
+  "description": "A bot to send DM's to every user in a Discord server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jah Rastafaraii",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "discord.js": "^11.3.2",
+    "figlet": "^1.2.0"
+  }
+}
